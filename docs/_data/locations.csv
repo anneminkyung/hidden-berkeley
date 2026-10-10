@@ -1,5 +1,5 @@
 location_id,name,category,area,access_note,source_url
-HB01,D-Lab,methods support,Social Sciences Building,Check the official site for current access details,https://dlab.berkeley.edu/
+HB01,D-Lab,methods support,Social Sciences Building,"If you're interested in data science and social science research, D-Lab is the place to be! D-Lab offers workshops on Python, R, and data visualization, as well as research consultations for UC Berkeley students, faculty, and staff. Visit D-Lab's website to explore available workshops!",https://dlab.berkeley.edu/workshops
 HB02,BAMPFA Film Library and Study Center,media research,Downtown Berkeley,Confirm appointments and access on the official site,https://bampfa.org/
 HB03,Morrison Library,quiet reading,Doe Library,Library access policies can change,https://www.lib.berkeley.edu/
 HB04,Jacobs Institute Makerspace,prototyping,North campus,Training may be required before equipment use,https://jacobsinstitute.berkeley.edu/
@@ -7,3 +7,4 @@ HB05,Basic Needs Center,student support,UC Berkeley,Use official pages for eligi
 HB06,Disabled Students' Program,access support,UC Berkeley,Do not publish private accommodation information,https://dsp.berkeley.edu/
 HB07,Berkeley Art Museum and Pacific Film Archive,arts and archives,Downtown Berkeley,Admission and hours vary,https://bampfa.org/
 HB08,UC Botanical Garden,field observation,Strawberry Canyon,Check current reservations and transit,https://botanicalgarden.berkeley.edu/
+HB09,Inclusive Excellence Hub,graduate student community space,"2515 Channing Way, Berkeley, CA 94720","This hub is for UC Berkeley graduate students looking for a welcoming space to study, connect with peers, and build a sense of belonging. The Hub offers drop-in study and meeting spaces. It is open Monday through Friday, from 9:00 AM to 4:30 PM.",https://grad.berkeley.edu/students/finding-community/inclusive-excellence-hub/
