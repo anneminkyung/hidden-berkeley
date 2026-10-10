@@ -1,5 +1,5 @@
 location_id,name,category,area,access_note,source_url
-HB01,D-Lab,methods support,Social Sciences Building,"If you're interested in data science and social science research, D-Lab is the place to be! D-Lab offers workshops on Python, R, and data visualization, as well as research consultations for UC Berkeley students, faculty, and staff. Visit D-Lab's website to explore available workshops!",https://dlab.berkeley.edu/workshops
+HB01,D-Lab,methods support,Social Sciences Building,"If you're interested in data science and social science research, D-Lab is the place to be! D-Lab offers workshops on Python, R, and data visualization and provides research consultations for UC Berkeley students, faculty, and staff. Visit D-Lab's website to explore available workshops!",https://dlab.berkeley.edu/workshops
 HB02,BAMPFA Film Library and Study Center,media research,Downtown Berkeley,Confirm appointments and access on the official site,https://bampfa.org/
 HB03,Morrison Library,quiet reading,Doe Library,Library access policies can change,https://www.lib.berkeley.edu/
 HB04,Jacobs Institute Makerspace,prototyping,North campus,Training may be required before equipment use,https://jacobsinstitute.berkeley.edu/
