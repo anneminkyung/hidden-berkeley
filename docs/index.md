@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Hidden Berkeley
+title: Welcome to Berkeley! Your Campus Guide
 ---
 
-# Hidden Berkeley
+# Welcome to Berkeley! Your Campus Guide
 
-A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
+Are you new to Berkeley and wondering where to start? This guide introduces some of the best places to study, explore, and enjoy your time on campus.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
