@@ -17,12 +17,11 @@ GitHub Pages builds the website from `main` and `/docs`. After you push a change
 
 ## Purpose and sources
 
-This guide is for prospective students, UC Berkeley students, staff, and families who are new to Berkeley or want to explore the campus. It introduces study spaces, campus services, and various places to visit on and around campus.
+This guide is for prospective students, UC Berkeley students, staff, and families who are new to Berkeley or want to explore the campus. It introduces study spaces, campus services, and various places to visit on and around campus. Each resource includes location details, access notes, and an official website link to help visitors plan their visit.
+I added the [Inclusive Excellence Hub](https://grad.berkeley.edu/students/finding-community/inclusive-excellence-hub/), which is a place where graduate students can study, build meaningful connections, and find their community.
+I also updated the D-Lab resource to provide more information about its workshops and research consultations. I used the official [D-Lab Workshops page](https://dlab.berkeley.edu/workshops/) to find details about the available workshops.
 
-I added the [Inclusive Excellence Hub](https://grad.berkeley.edu/students/finding-community/inclusive-excellence-hub/), a welcoming space for graduate students to study, connect with peers, and build a sense of belonging.
-
-I also updated the D-Lab entry to provide more information about its workshops and research consultations. I used the official [D-Lab Workshops page](https://dlab.berkeley.edu/workshops/) to find details about the available workshops.
 
 ## Website checks
 
-I checked [my website](https://anneminkyung.github.io/hidden-berkeley/) to make sure that my updated heading and introduction appeared correctly. I also made sure that all nine resources were listed, including the newly added Inclusive Excellence Hub, and that the updated D-Lab access note and Inclusive Excellence Hub details matched the CSV file. I also checked that both official source links opened the intended pages. 
+I checked [my website](https://anneminkyung.github.io/hidden-berkeley/) to make sure that my updated heading and introduction appeared correctly. I also made sure that all nine resources were listed, including the newly added Inclusive Excellence Hub, and that the updated D-Lab access note and Inclusive Excellence Hub details matched the CSV file. Lastly, I checked that both official source links opened the intended pages.
