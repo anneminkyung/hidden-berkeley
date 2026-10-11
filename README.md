@@ -17,8 +17,12 @@ GitHub Pages builds the website from `main` and `/docs`. After you push a change
 
 ## Purpose and sources
 
-Replace this paragraph with two or three sentences about your guide's audience and purpose. The first eight resources were supplied by COMPSS 211A. Name the resource you added and link to the official webpage you used to check it.
+This guide is for prospective students, UC Berkeley students, staff, and families who are new to Berkeley or want to explore the campus. It introduces study spaces, campus services, and various places to visit on and around campus.
+
+I added the [Inclusive Excellence Hub](https://grad.berkeley.edu/students/finding-community/inclusive-excellence-hub/), a welcoming space for graduate students to study, connect with peers, and build a sense of belonging.
+
+I also updated the D-Lab entry to provide more information about its workshops and research consultations. I used the official [D-Lab Workshops page](https://dlab.berkeley.edu/workshops/) to find details about the available workshops.
 
 ## Website checks
 
-After publishing your changes, replace this paragraph with the live website link, the existing entry you improved, the new resource you added, and what you checked on the website. Say whether the displayed values match your CSV and whether the official links open the intended pages.
+I checked [my website](https://anneminkyung.github.io/hidden-berkeley/) to make sure that my updated heading and introduction appeared correctly. I also made sure that all nine resources were listed, including the newly added Inclusive Excellence Hub, and that the updated D-Lab access note and Inclusive Excellence Hub details matched the CSV file. I also checked that both official source links opened the intended pages. 
